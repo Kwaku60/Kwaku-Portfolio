@@ -294,14 +294,26 @@ color: red;
 
 #quick-3{
 
-	color:#432109;
+	color:blue;
 	font-size: 16.5px;
 }
 
 #quick-tech-3{
 
-	color:#432109;
-	font-size: 16.5px;
+	color:blue;
+	font-size: 15.5px;
+}
+
+#quick-4{
+
+	color:blue;
+	font-size: 15px;
+}
+
+#quick-tech-4{
+
+	color:blue;
+	font-size: 15px;
 }
 
 
@@ -327,9 +339,26 @@ color:#4d2574;
 color:#4d2574;
 	font-size: 14.6px;
 
+}
 
+#quick-6{
+
+color: green;
+	font-size: 15px;
 
 }
+
+#quick-tech-6{
+
+color:green;
+	font-size: 15px;
+
+}
+
+
+
+
+
 
 #git-link{
 position:relative;
