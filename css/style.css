@@ -227,14 +227,19 @@ left:171px;
 
 	font-size: 3px;
 	position: relative;
-	left:148px;
+	left:168px;
+	/*border: solid brown 2px;*/
+
 }
 
 
 
 #bottom-5{
 position:relative;
-left:140px;
+left:231px;
+
+	/*border: solid brown 2px;*/
+	margin-left: 10px;
 
 
 }
@@ -242,7 +247,9 @@ left:140px;
 
 #bottom-6{
 position:relative;
-left:266px;
+left:292px;
+
+/*	border: solid brown 2px;*/
 
 
 }
