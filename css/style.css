@@ -166,7 +166,37 @@ width: 360px;
 color: rgba(225,222,173,.67);
 }
 
+.app-title{
+/*color: rgba(191, 191, 191,.7);*/
+color: black;
+font-family: 'Abril Fatface', cursive;
+
+/*font-family: 'Russo One', sans-serif;*/
+
+
+}
+
+
+.tech-title{
+/*
+color: rgba(191, 191, 191,.7);*/
+/*font-family: 'Abril Fatface', cursive;*/
+color: black;
+font-family: 'Russo One', sans-serif;
+
+
+}
+
 #contact-header{
+	position: relative;
+	bottom:54px;
+	font-size: 17.5px;
+	color:maroon;
+
+
+}
+
+#contact-subHeader{
 	position: relative;
 	bottom:54px;
 	font-size: 17.5px;
@@ -279,7 +309,7 @@ color: red;
 #quick-2{
 	margin-top: 2px;
 	font-size: 16.5px;
-	color: gold;
+	color: #E9D762;
 
 
 }
@@ -287,7 +317,7 @@ color: red;
 #quick-tech-2{
 	margin-top: 2px;
 	font-size: 16.5px;
-	color: gold;
+	color: #E9D762;
 
 
 }
