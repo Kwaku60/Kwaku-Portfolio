@@ -85,6 +85,7 @@ bottom:62px;
 #portfolio{
 
 	height:1720px;
+	margin-right: 60px;
 }
 #ports{
 
@@ -257,7 +258,7 @@ left:171px;
 
 	font-size: 3px;
 	position: relative;
-	left:168px;
+	left:29px;
 	/*border: solid brown 2px;*/
 
 }
@@ -266,7 +267,7 @@ left:171px;
 
 #bottom-5{
 position:relative;
-left:231px;
+left:90px;
 
 	/*border: solid brown 2px;*/
 	margin-left: 10px;
@@ -277,7 +278,7 @@ left:231px;
 
 #bottom-6{
 position:relative;
-left:292px;
+left:158px;
 
 /*	border: solid brown 2px;*/
 
