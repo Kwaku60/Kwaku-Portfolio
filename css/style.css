@@ -15,7 +15,7 @@ position:relative;
 	background-color: rgba(255, 255, 0,.4);
 	height:10px;
 	width:920px;
-	left:130px;
+	left:240px;
 	bottom:15px;
 	
 
@@ -28,7 +28,7 @@ position:relative;
 	height:10px;
 	width:700px;
 	top:520px;
-	left:230px;
+	left:350px;
 }
 
 
@@ -208,6 +208,7 @@ font-family: 'Russo One', sans-serif;
 
 #contact{
 	font-size: 10px;
+z-index: -2px;
 	
 
 
@@ -236,13 +237,16 @@ font-family: 'Russo One', sans-serif;
 #bottom-1{
 
 	font-size: 3px;
+	position:relative;
+	left:80px;
 }
 
 
 
 #bottom-2{
 position:relative;
-left:100px;
+left:197px;
+
 
 
 }
@@ -250,7 +254,7 @@ left:100px;
 
 #bottom-3{
 position:relative;
-left:165px;
+left:332px;
 
 }
 
@@ -267,7 +271,7 @@ left:165px;
 
 #bottom-5{
 position:relative;
-left:90px;
+left:190px;
 
 	/*border: solid brown 2px;*/
 	margin-left: 10px;
@@ -278,7 +282,7 @@ left:90px;
 
 #bottom-6{
 position:relative;
-left:158px;
+left:316px;
 
 /*	border: solid brown 2px;*/
 
@@ -311,12 +315,14 @@ color: red;
 	margin-top: 2px;
 	font-size: 16.5px;
 	color: #E9D762;
+	
 
 
 }
 
 #quick-tech-2{
 	margin-top: 2px;
+
 	font-size: 16.5px;
 	color: #E9D762;
 
@@ -327,12 +333,14 @@ color: red;
 
 	color:blue;
 	font-size: 16.5px;
+
 }
 
 #quick-tech-3{
 
 	color:blue;
 	font-size: 15.5px;
+	
 }
 
 #quick-4{
