@@ -9,14 +9,19 @@
 /*border: solid MidnightBlue 7px;*/
 }
 
+.container{
+
+	border: solid black 2px;
+}
 #border-inner-1{
 
 position:relative;
 	background-color: rgba(255, 255, 0,.4);
 	height:10px;
 	width:920px;
-	left:240px;
-	bottom:15px;
+	margin-left:120px;
+	position:absolute;
+	bottom:685px;
 	
 
 }
@@ -27,8 +32,8 @@ position:relative;
 	background-color: rgba(255, 255, 0,.5);
 	height:10px;
 	width:700px;
-	top:520px;
-	left:350px;
+	margin-top:310px;
+	margin-left:231px;
 }
 
 
@@ -38,6 +43,7 @@ position:relative;
  	background-color:  rgba(255,253,245,.2); */
  	background-color: white;
  	height:10px;
+ 	margin-top: 187px;
 }
 #caption-1{
 
@@ -78,8 +84,8 @@ bottom:60px;
 	border-bottom: solid #F7F0BF 3.5px;
 /*	color: rgba(255,255,0,.8);*/
 	color:maroon;
-	position:relative;
-bottom:62px;
+	
+margin-bottom:62px;
 }
 
 #portfolio{
@@ -88,7 +94,7 @@ bottom:62px;
 	margin-right: 60px;
 }
 #ports{
-
+	
 	margin-top: 10px;
 }
 
@@ -237,15 +243,15 @@ z-index: -2px;
 #bottom-1{
 
 	font-size: 3px;
-	position:relative;
-	left:80px;
+/*	position:relative;
+	left:80px;*/
 }
 
 
 
 #bottom-2{
-position:relative;
-left:197px;
+/*position:relative;
+left:197px;*/
 
 
 
@@ -253,16 +259,16 @@ left:197px;
 
 
 #bottom-3{
-position:relative;
-left:332px;
+/*position:relative;
+left:332px;*/
 
 }
 
 #bottom-4{
 
 	font-size: 3px;
-	position: relative;
-	left:29px;
+/*	position: relative;
+	left:29px;*/
 	/*border: solid brown 2px;*/
 
 }
@@ -270,8 +276,8 @@ left:332px;
 
 
 #bottom-5{
-position:relative;
-left:190px;
+/*position:relative;
+left:190px;*/
 
 	/*border: solid brown 2px;*/
 	margin-left: 10px;
@@ -281,8 +287,8 @@ left:190px;
 
 
 #bottom-6{
-position:relative;
-left:316px;
+/*position:relative;
+left:316px;*/
 
 /*	border: solid brown 2px;*/
 
@@ -384,6 +390,7 @@ color:#4d2574;
 
 color: green;
 	font-size: 15px;
+	margin-bottom:3px;
 
 }
 
