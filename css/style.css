@@ -9,10 +9,7 @@
 /*border: solid MidnightBlue 7px;*/
 }
 
-.container{
 
-	border: solid black 2px;
-}
 #border-inner-1{
 
 position:relative;
@@ -245,13 +242,15 @@ z-index: -2px;
 	font-size: 3px;
 /*	position:relative;
 	left:80px;*/
+	margin-left: 30px;
 }
 
 
 
 #bottom-2{
-/*position:relative;
-left:197px;*/
+position:relative;
+
+left: 60px;
 
 
 
@@ -259,8 +258,8 @@ left:197px;*/
 
 
 #bottom-3{
-/*position:relative;
-left:332px;*/
+position:relative;
+left: 100px;
 
 }
 
